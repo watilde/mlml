@@ -1,0 +1,23 @@
+{
+  "name": "mlml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/mlml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/mlml/issues"
+  },
+  "homepage": "https://github.com/watilde/mlml#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.3.1"
+  }
+}
