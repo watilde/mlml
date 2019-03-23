@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/watilde/mlml#readme",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^0.3.1"
+    "@tensorflow/tfjs-node": "^0.3.1",
+    "express": "^4.16.4"
   }
 }
